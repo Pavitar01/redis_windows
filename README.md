@@ -1,3 +1,3 @@
 # redis_windows
 
-<button style={cusror:"pointer"}>Open </button>
+<button style={cursor:"pointer"}>Open </button>
