@@ -1,7 +1,3 @@
-# redis_windows
-
-
-
 
 <!DOCTYPE html>
 <html>
