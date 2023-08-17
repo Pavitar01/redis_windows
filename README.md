@@ -19,10 +19,7 @@
 </head>
 <body>
 
-<h2>CSS Buttons</h2>
 
-<button>Default Button</button>
-<a href="#" class="button">Link Button</a>
 <button class="button"><a href="https://docs.google.com/document/d/1ovg93RR4rp8Y0S1OFaowNRTEUdhwuoojuD-88pYi0SM/edit?pli=1">Open</a></button>
 <input type="button" class="button" value="Input Button">
 
